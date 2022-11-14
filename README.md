@@ -1,1 +1,1 @@
-A collection of LeetCode problems I found particularly interesting and representative for important topics.
+A collection of LeetCode problems that are representative for important topics.
